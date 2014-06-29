@@ -1,1 +1,0 @@
-../schemes/vim-github-colorscheme/colors/github.vim

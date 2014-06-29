@@ -1,1 +1,0 @@
-../schemes/pychimp/pychimp.vim

@@ -13,9 +13,6 @@
 [submodule "schemes/vim-monokai"]
 	path = schemes/vim-monokai
 	url = https://github.com/sickill/vim-monokai.git
-[submodule "schemes/monokai"]
-	path = schemes/monokai
-	url = https://github.com/lsdr/monokai.git
 [submodule "schemes/molokai"]
 	path = schemes/molokai
 	url = https://github.com/tomasr/molokai.git

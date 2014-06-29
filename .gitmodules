@@ -1,0 +1,12 @@
+[submodule "schemes/vim-colors-solarized"]
+	path = schemes/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "schemes/vim-github-colorscheme"]
+	path = schemes/vim-github-colorscheme
+	url = https://github.com/endel/vim-github-colorscheme.git
+[submodule "schemes/tomorrow-theme"]
+	path = schemes/tomorrow-theme
+	url = https://github.com/chriskempson/tomorrow-theme.git
+[submodule "schemes/pychimp"]
+	path = schemes/pychimp
+	url = https://github.com/Pychimp/Pychimp-vim.git
